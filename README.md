@@ -1,5 +1,5 @@
 # Monty-Hall-Problem
-Agent based model of the Monty Hall game show problem
+Agent based model of the Monty Hall game show problem and similar to Monte Carlo simulations.
 
 # ######Monty Hall Problem Model######
 # 
